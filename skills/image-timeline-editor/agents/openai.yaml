@@ -1,0 +1,5 @@
+interface:
+  display_name: "今日校园请假条编辑"
+  short_description: "修改今日校园请假条测试截图，并校验完整时间与审批逻辑"
+  default_prompt: "使用 $image-timeline-editor 按照我的要求修改这张今日校园请假条测试截图，并确保请假时长、手机时间、审批流程和页面状态全部一致。"
+
